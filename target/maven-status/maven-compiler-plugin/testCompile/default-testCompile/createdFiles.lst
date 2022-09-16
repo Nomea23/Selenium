@@ -1,0 +1,4 @@
+base\BrowserSetup.class
+features\InvestPage.class
+test\TestRunner.class
+features\WebLauncher.class
